@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hello, I'm Manuel Fernandes
 
-<!--
-**Manu200299/Manu200299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 3rd-year Information Systems Engineering student at IPCA (Instituto Politécnico do Cávado e do Ave), passionate about technology, development, and cybersecurity.
 
-Here are some ideas to get you started:
+## 💼 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 Based in Guimarães, Portugal  
+- 🧑‍💻 Interested in FullStack Development, Cybersecurity, and Game Development  
+- 🌐 Always learning and exploring new technologies  
+- 🛠️ Currently improving my skills in ReactJS, .NET, and Python
+
+## 📫 Contact Me
+
+- 📧 Email: manuel.fernandes02@protonmail.com  
+- 💼 LinkedIn: [linkedin.com/in/manuelfernandes02](https://www.linkedin.com/in/manuelfernandes02)  
+
+## 🚀 Technologies & Tools
+
+- Languages: HTML, CSS, C#, Python, JavaScript  
+- Frameworks: ReactJS, .NET  
+- Tools: Git, Photoshop, Visual Studio Code
+
+---
+
+Thanks for stopping by! Feel free to check out my projects 👇
