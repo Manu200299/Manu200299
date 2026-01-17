@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Manuel Fernandes
 
-- 📚 3rd-year Computer Systems Engineering student @ IPCA - Licenciatura em Engenharia em Sistemas Informaticos (LESI) 
+- 📚 Graduate Computer Systems Engineering student @ IPCA - Licenciatura em Engenharia em Sistemas Informaticos (LESI) 
 - 🎓 Aiming to specialize in Cybersecurity
-- 💻 Interested in FullStack Dev, Cybersecurity & Game Dev  
-- 🧠 Currently learning Flutter
+- 💻 Interested in FullStack Dev, Cybersecurity  
+- 🧠 Currently learning Fastify
 - 🌍 Based in Guimarães, Portugal  
 - 📬 [Email](manuel.fernandes02@protonmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/manuelfernandes02)
